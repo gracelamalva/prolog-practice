@@ -1,3 +1,4 @@
+%% Grace LaMalva -- Program 2 - CUS 1174
 % parent definitions
 parent(jill,john).
 parent(john,pam).
